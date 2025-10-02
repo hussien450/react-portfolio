@@ -49,7 +49,7 @@ const Landing = ({ setSelectedPage }) => {
           }}
         >
           <p className="text-6xl font-playfair text-center md:text-start relative z-10">
-            <span className="relative z-10">Huusein</span> {""}
+            <span className="relative z-10">Hussein</span> {""}
             <span
               className="xs:relative xs:text-white md:text-card xs:font-semibold z-10 md:before:content-brush
                     before:absolute before:-left-[35px] before:-top-[120px] before:z-[-1]"
